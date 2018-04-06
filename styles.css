@@ -1,0 +1,15 @@
+.jumbotron {
+	text-align: center;
+	margin-right: 200px;
+	background-image: url("https://usatftw.files.wordpress.com/2016/11/200-6.gif?w=798&h=502")
+}
+body {
+	margin-left: 210px;
+	margin-right: 180px;
+    background: #5d9ab2 url("https://content.mycutegraphics.com/graphics/owl/yellow-owl-on-branch.png");
+    
+}
+h1 {
+    font-family: sans-serif;
+}
+

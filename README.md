@@ -1,1 +1,1 @@
-# Hangman-P7-Ginevra
+# Hangman
